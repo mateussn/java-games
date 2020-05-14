@@ -1,3 +1,3 @@
 # Java Games 
 
-```have fun```
+Small codes to learn program games in Java
