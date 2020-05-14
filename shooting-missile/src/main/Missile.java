@@ -2,7 +2,7 @@ package main;
 
 public class Missile extends Sprite {
 
-	//Constants
+	// Constants
 	private final int BOARD_WIDTH = 390;
 	private final int MISSILE_SPEED = 2;
 	
